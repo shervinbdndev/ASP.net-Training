@@ -1,15 +1,18 @@
+using Zhenic.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Zhenic.Controllers {
     public class PeopleController: Controller {
-        public IActionResult Index() {
-            ViewBag.Message = "List of People";
-            return View();
+        
+        private readonly AppDbContext _context;
+
+        public PeopleController(AppDbContext context) {
+            _context = context;
         }
 
-        public IActionResult Details(int id) {
-            ViewBag.PersonId = id;
-            return View();
+        public IActionResult Index() {
+            var people = _context.People.ToList();
+            return View(people);
         }
     }
 }
