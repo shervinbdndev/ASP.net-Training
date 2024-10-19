@@ -12,7 +12,7 @@ builder.Services.AddControllersWithViews();
 // 
 
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(
-    builder.Configuration.GetConnectionString("dorodbarToEyBarnameNeviseGerami12332442534234234InTexthaRoNakhun")
+    builder.Configuration.GetConnectionString("DefaultConnection")
 ));
 
 var app = builder.Build();

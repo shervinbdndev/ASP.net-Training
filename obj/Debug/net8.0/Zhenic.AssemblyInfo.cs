@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zhenic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+439b022fdea2e7482c2aa06e5b2e6570f98969d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c048fe787d378ce19f87fbcaf130cfe94fab16d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zhenic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zhenic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

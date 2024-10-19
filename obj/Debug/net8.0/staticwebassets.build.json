@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q+M8dryq7Yf3iIX6VafgJwoIyzhWA9NSrLNWKr4mWM8=",
+  "Hash": "T3bzqEZFhvUoDgk4hxtIahKExSOKoHZt7NGDw6QIQ9M=",
   "Source": "Zhenic",
   "BasePath": "_content/Zhenic",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\css\\styles.css",
+      "SourceId": "Zhenic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\",
+      "BasePath": "_content/Zhenic",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\favicon.ico",
       "SourceId": "Zhenic",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\fonts\\Lalezar-Regular.ttf",
+      "SourceId": "Zhenic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\",
+      "BasePath": "_content/Zhenic",
+      "RelativePath": "fonts/Lalezar-Regular.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\Lalezar-Regular.ttf"
     },
     {
       "Identity": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\js\\site.js",

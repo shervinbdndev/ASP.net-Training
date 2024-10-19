@@ -1,0 +1,75 @@
+@model Zhenic.Models.Person
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ایجاد کاربر</title>
+    <link rel="stylesheet" href="~/css/styles.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <style type="text/css">
+        body {
+            background-color: #1e1e1e;
+            color: #f8f9fa;
+        }
+
+        h2 {
+            color: #f8f9fa;
+            border-bottom: 2px solid #6c757d;
+            padding-bottom: 10px;
+        }
+
+        .form-control {
+            background-color: #2c2c2c;
+            color: #f0f0f0;
+        }
+
+        .form-label {
+            color: #f8f9fa;
+        }
+
+        .form-control:focus {
+            background-color: #3a3a3a;
+            color: #ffffff;
+            border-color: #4b4b4b;
+            box-shadow: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">اضافه کردن فرد جدید</h2>
+
+        <form asp-action="Create" class="row g-3">
+
+            <div class="col-md-6">
+                <label for="FirstName" class="form-label">نام</label>
+                <input type="text" class="form-control" id="FirstName" name="FirstName" required>
+            </div>
+
+            <div class="col-md-6">
+                <label for="LastName" class="form-label">نام خانوادگی</label>
+                <input type="text" class="form-control" id="LastName" name="LastName" required>
+            </div>
+
+            <div class="col-md-6">
+                <label for="Age" class="form-label">سن</label>
+                <input type="number" class="form-control" id="Age" name="Age" required>
+            </div>
+
+            <div class="col-md-6">
+                <label for="Code" class="form-label">کدملی</label>
+                <input type="number" class="form-control" id="Code" name="Code" required>
+            </div>
+            <div class="col-12">
+                <button type="submit" class="btn btn-success">ذخیره</button>
+                <a asp-action="Index" class="btn btn-secondary">لغو</a>
+            </div>
+        </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

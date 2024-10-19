@@ -1,0 +1,37 @@
+body {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+}
+
+.table {
+    background-color: #2c2c2c;
+}
+
+.table th, table td {
+    color: #ffffff;
+}
+
+.table-striped tbody tr:nth-last-of-type(odd) {
+    background-color: #333333;
+}
+
+.btn {
+    margin: 0 5px;
+}
+
+h1, h2 {
+    color: #f8f9fa;
+    border-bottom: 2px solid #6c757d;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.form-control {
+    background-color: #2c2c2c;
+    color: #f0f0f0;
+    border-radius: 5px;
+}

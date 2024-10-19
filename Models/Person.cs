@@ -5,6 +5,6 @@ namespace Zhenic.Models {
         public required string LastName {get;set;}
 
         public int Age {get;set;}
-        public double Code {get;set;}
+        public int Code {get;set;}
     }
 }

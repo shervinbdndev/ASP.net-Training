@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\fonts\\Lalezar-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Lalezar-Regular.ttf"
     },
     {
       "Id": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\js\\site.js",
