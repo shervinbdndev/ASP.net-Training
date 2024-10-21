@@ -5,5 +5,6 @@ namespace Zhenic.Models {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) {}
 
         public DbSet<Person> People {get;set;}
+        public DbSet<Archive> Archives {get;set;}
     }
 }

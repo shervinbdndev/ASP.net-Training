@@ -253,6 +253,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\uploads\\me.jpg",
+      "PackagePath": "staticwebassets\\uploads\\me.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Zhenic.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T3bzqEZFhvUoDgk4hxtIahKExSOKoHZt7NGDw6QIQ9M=",
+  "Hash": "PHFC9qGQm9KPHAQ+6uILaWO0IOyjpWxeUmPd6A0282o=",
   "Source": "Zhenic",
   "BasePath": "_content/Zhenic",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\uploads\\me.jpg",
+      "SourceId": "Zhenic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\Zhenic\\wwwroot\\",
+      "BasePath": "_content/Zhenic",
+      "RelativePath": "uploads/me.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\me.jpg"
     }
   ]
 }

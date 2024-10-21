@@ -132,3 +132,7 @@ C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\Zhenic\obj\Debug\net8.0\refint\Zheni
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\Zhenic\obj\Debug\net8.0\Zhenic.pdb
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\Zhenic\obj\Debug\net8.0\Zhenic.genruntimeconfig.cache
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\Zhenic\obj\Debug\net8.0\ref\Zhenic.dll
+C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\Zhenic\obj\Debug\net8.0\Zhenic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\Zhenic\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\Zhenic\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\Zhenic\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
